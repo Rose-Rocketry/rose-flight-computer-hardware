@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Sensor_Motion_LSM6DSO32")(type "KiCad")(uri "${KIPRJMOD}/external-libs/symbols/Sensor_Motion_LSM6DSO32.kicad_sym")(options "")(descr ""))
+  (lib (name "Sensor_Pressure_BMP390")(type "KiCad")(uri "${KIPRJMOD}/external-libs/symbols/Sensor_Pressure_BMP390.kicad_sym")(options "")(descr ""))
+)

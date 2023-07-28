@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Sensor_Motion_LSM6DSO32")(type "KiCad")(uri "${KIPRJMOD}/external-libs/footprints/Sensor_Motion_LSM6DSO32.pretty")(options "")(descr ""))
+  (lib (name "Sensor_Pressure_BMP390")(type "KiCad")(uri "${KIPRJMOD}/external-libs/footprints/Sensor_Pressure_BMP390.pretty")(options "")(descr ""))
+)
